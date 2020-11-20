@@ -1,0 +1,26 @@
+{
+  "login": [
+    {
+      "tenant":"0978lkdab-lkaj",
+      "company":"Acme",
+      "appID":"TigBC",
+      "userID":"bob",
+      "userPW":"1234",
+      "token":"0394 ljskje lakjsf"
+    }
+  ],
+  "subscription": [
+    {
+       "tenant":"0978lkdab-lkaj",
+       "company":"Acme",
+       "appID":"TigBC",
+       "userID":"bob",
+       "userPW":"1234",
+       "token":"0394 ljskje lakjsf",
+       "expiration":"2020-12-14",
+       "termination":"2020-12-21",
+       "interval":7,
+       "override":false
+    }
+  ]
+}
