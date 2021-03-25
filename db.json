@@ -1,5 +1,5 @@
 {
-  "login": [
+  "arrayTest": [
     {
       "id": "jeff",
       "password": "fubar"
@@ -7,6 +7,10 @@
     {
       "id": "None",
       "password": "foobar"
+    },
+    {
+      "id": "Pete",
+      "password": "rabbit"
     }
   ],
   "subscription": {
