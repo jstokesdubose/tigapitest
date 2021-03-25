@@ -1,11 +1,18 @@
 {
-  "posts": [
+  "login": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "jeff",
+      "password": "fubar"
+    },
+    {
+      "id": "None",
+      "password": "foobar"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "subscription": {
+    "subscriptionEnd": "20210530",
+    "gracePeriodDays": 7,
+    "trialSubscription": true,
+    "subscriptionActive": true
   }
 }
